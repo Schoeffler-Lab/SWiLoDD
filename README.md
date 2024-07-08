@@ -13,7 +13,7 @@ Other versions might work, but haven't been fully tested.
 
 1) Download or clone this repository.
    
-2) Move or copy the directory containing the FASTA files you wish to analyze into the `SWiCAM_v1.1-main` directory, in a sub-directory named 'aligns'.
+2) Move or copy the directory containing the FASTA files you wish to analyze into the `SWiLoDD-main` directory, in a sub-directory named 'aligns'.
 
 3) Open a command line interface and change your working directory to the sliding-window-analysis directory, for example
 
@@ -40,4 +40,4 @@ Or, to look for aspartate and glutamate enrichments in 9-residue sliding widow w
    Within this folder, there will be csv files containing raw window frequencies for every sequence in the alignment.
    There will also be a folder containing interactive plots of the average frequencies and the delta average frequencies.
    If you would like to make a publication-quality plot of the delta average frequencies, please see our SWiLoDD Delta Plot Visualizer script on GitHub.
-   (https://github.com/Schoeffler-Lab/SWiCAM_Delta_Plot.git )
+   (https://github.com/Schoeffler-Lab/SWiLoDD_Delta_Plot.git )
