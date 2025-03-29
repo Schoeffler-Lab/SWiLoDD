@@ -1,3 +1,10 @@
+# Citing SWiLoDD
+If you use SwiLoDD, please cite us!
+
+E. Hill, A. Hill, E. Voisin, A. Byrd and A. Schoeffler (2025) Localized Amino Acid Enrichment Analysis as a Tool for Understanding Protein Extremophilicity, Proteins 93(3):702-715.
+
+https://pubmed.ncbi.nlm.nih.gov/39513552/ 
+
 # Instructions for Running SWiLoDD
 ### Version Requirements
 This version of the code works with the following python and python package versions:
